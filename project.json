@@ -1,0 +1,41 @@
+{
+  "id": 56,
+  "category": "game-companion",
+  "slug": "dayz-survival-notebook",
+  "target": "DayZ",
+  "appid": "221100",
+  "summaryRu": "Ручной журнал маршрутов выживания без чтения положения других игроков.",
+  "features": [
+    "Supply checklist",
+    "User-drawn route notes",
+    "Session survival journal"
+  ],
+  "title": "TrailRations — DayZ — Rations",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "TrailRations",
+  "repositoryName": "trailrations-dayz-survival-notebook-rations",
+  "githubTopics": [
+    "dayz",
+    "survival-checklist",
+    "route-notes",
+    "session-journal",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "rations"
+}
